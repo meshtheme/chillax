@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="322px" height="95px" viewBox="0 0 322 95" enable-background="new 0 0 322 95" xml:space="preserve">
+<text transform="matrix(0.9551 0 0 1 90.2427 94.5117)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Tahoma'" font-size="46.9545">esh</tspan><tspan x="84.211" y="0" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="63.3885">T</tspan><tspan x="123.024" y="0" fill="#FFFFFF" font-family="'Tahoma'" font-size="46.9545">heme</tspan></text>
+<path fill="#DA22FF" d="M199.471,1.128C132.413,3.587,73.622,33.343,46.932,48.766L29.886,34.731h-9.024H0.956l40.62,34.242
+	l1.751-1.297c0.003,0,0.021,0.02,0.021,0.016c0.164-0.132,0.337-0.263,0.5-0.399l13.489-9.911l0.242,0.15l-0.212-0.17l0.576-0.428
+	l-0.013-0.011C119.046,15.431,199.471,1.128,199.471,1.128"/>
+<path fill="#FFFFFF" d="M63.211,94.404h19.463V47.351c-6.593,3.559-13.114,7.381-19.463,11.491V94.404z"/>
+<polygon fill="#FFFFFF" points="19.938,56.564 0.478,40.161 0.478,94.404 19.938,94.404 "/>
+</svg>

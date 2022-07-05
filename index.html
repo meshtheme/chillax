@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="assets/img/favicon.png">
     <title>Chillax ShowCase</title>
     <!-- <link href="http://chillax-migrate.localhost/wp-content/themes/chillax/assets/css/vendor/bootstrap.min.css?ver=4.3.1" rel="stylesheet" id="bootstrap-css"> -->
@@ -38,6 +38,9 @@
         margin: 1em;
         text-transform: capitalize;
         font-size: 1.7em;
+    }
+    * {
+      box-sizing: border-box;
     }
     /********************* shopping Demo-1 **********************/
     .product-grid {
@@ -434,6 +437,27 @@
             line-height: 40px;
         }
     }
+    @media (max-width:400px) {
+
+        .buy-clx-btn{
+            padding: 3px 10px;
+            max-width: 100%;
+            font-size: 12px;
+            line-height: 26px;
+            height: 30px;
+        }
+        .buy-clx-btn img{
+            width: 25px !important;
+            height: 25px !important;
+        }
+        a.meshtheme-logo{
+            max-width: 50%;
+        }
+        a.meshtheme-logo img {
+            max-width: 100%;
+        }
+    }
+
     </style>
 </head>
 <body>
